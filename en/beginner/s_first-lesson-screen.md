@@ -1,5 +1,7 @@
-[Title]: # (First card in a lesson)
-[Order]: # (0)
+---
+index: 0
+title: First card in a lesson
+---
 
 ### TL:DR: What's the shortest way to sum up what you want to say on this screen? Don't repeat the title, add value. 
 
